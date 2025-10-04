@@ -1,0 +1,16 @@
+﻿  Main.cpp
+D:\项目\Five night at MrJay's home\Five night at MrJay's home\Game.h(84,24): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\项目\Five night at MrJay's home\Five night at MrJay's home\Main.cpp(158,21): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\项目\Five night at MrJay's home\Five night at MrJay's home\Main.cpp(167,21): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\项目\Five night at MrJay's home\Five night at MrJay's home\Main.cpp(176,22): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\项目\Five night at MrJay's home\Five night at MrJay's home\Main.cpp(413,20): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\项目\Five night at MrJay's home\Five night at MrJay's home\Main.cpp(414,20): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\项目\Five night at MrJay's home\Five night at MrJay's home\Main.cpp(415,21): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\项目\Five night at MrJay's home\Five night at MrJay's home\Main.cpp(416,18): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\项目\Five night at MrJay's home\Five night at MrJay's home\Main.cpp(426,20): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 398 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Five night at MrJay's home.vcxproj -> D:\项目\Five night at MrJay's home\x64\Release\Five night at MrJay's home.exe
